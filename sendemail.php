@@ -4,7 +4,7 @@
 
 
 // change the email address below to your own email address.
-$mailTo = 'admin@achrafpro.com';
+$mailTo = 'x@x.com';
 
 
 $name = htmlspecialchars($_POST['Name']);
